@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
+  <diagram name="Page-1" id="stsBMr3z6yieKqcfKvDY">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-1" value="&lt;b&gt;Mulai&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFjxV62Z0TO7QKgr4FYZ-1" target="SFjxV62Z0TO7QKgr4FYZ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-3" value="&lt;b&gt;Memasukan dua bilangan&lt;/b&gt;&lt;div&gt;&lt;b&gt;a dan b&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFjxV62Z0TO7QKgr4FYZ-3" target="SFjxV62Z0TO7QKgr4FYZ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-5" value="&lt;b&gt;Menjumlahkan kedua bi;angan&lt;/b&gt;&lt;div&gt;&lt;b&gt;=a+b&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="320" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFjxV62Z0TO7QKgr4FYZ-5" target="SFjxV62Z0TO7QKgr4FYZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-7" value="&lt;b&gt;Cetak hasil&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SFjxV62Z0TO7QKgr4FYZ-7" target="SFjxV62Z0TO7QKgr4FYZ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFjxV62Z0TO7QKgr4FYZ-9" value="&lt;b&gt;end&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

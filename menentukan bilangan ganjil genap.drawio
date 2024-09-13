@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
+  <diagram name="Page-1" id="xz9weHuRt4lgYxSu-nPy">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-1" value="&lt;b&gt;Mulai&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5b9aFp2Xyh7HG5Ll0Dx7-1" target="5b9aFp2Xyh7HG5Ll0Dx7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-3" value="&lt;b&gt;Input Bilangan&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="210" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5b9aFp2Xyh7HG5Ll0Dx7-3" target="5b9aFp2Xyh7HG5Ll0Dx7-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-6" value="&lt;b&gt;masukan angka&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.465;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5b9aFp2Xyh7HG5Ll0Dx7-6" target="5b9aFp2Xyh7HG5Ll0Dx7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="270" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="440" />
+              <mxPoint x="270" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5b9aFp2Xyh7HG5Ll0Dx7-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="560" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-10" value="&lt;b&gt;Jika Angka tidak habis di bagi dua&lt;/b&gt;&lt;div&gt;&lt;b&gt;maka bilangan adalah ganjil&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-13" value="&lt;b&gt;dan jika habis di bagi dua maka bilangan adalah genap&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="510" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.459;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5b9aFp2Xyh7HG5Ll0Dx7-10" target="5b9aFp2Xyh7HG5Ll0Dx7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="592" as="sourcePoint" />
+            <mxPoint x="230" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="268" y="670" />
+              <mxPoint x="268" y="700" />
+              <mxPoint x="268" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.556;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5b9aFp2Xyh7HG5Ll0Dx7-13" target="5b9aFp2Xyh7HG5Ll0Dx7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="560" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="660" />
+              <mxPoint x="570" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-17" value="&lt;b&gt;Cetak hasil&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5b9aFp2Xyh7HG5Ll0Dx7-17" target="5b9aFp2Xyh7HG5Ll0Dx7-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="420" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b9aFp2Xyh7HG5Ll0Dx7-19" value="&lt;b&gt;end&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="840" width="215" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
