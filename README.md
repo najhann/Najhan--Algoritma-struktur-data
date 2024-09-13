@@ -1,2 +1,6 @@
-https://github.com/najhann/Najhan--Algoritma-struktur-data-1#:~:text=files%20via%20upload-,12%20hours%20ago,8%20minutes%20ago,-Repository%20files%20navigation
- 
+#Menentukan bilangan ganjil genap
+https://drive.google.com/file/d/1QbeWUMSl6NU1EWOoz5c5yznYk6pyj6Ay/view?usp=drive_link
+#Menghitung luas lingkaran
+https://drive.google.com/file/d/15R9_8o5eysKFWLlLJl2LpE1tnTe-YouI/view?usp=sharing
+#Menjumlahkan dua bilangan
+https://drive.google.com/file/d/1-C2DYKnhOpWAB-PEoSulJWiOD_dAzbaj/view?usp=drive_link
